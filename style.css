@@ -1,0 +1,38 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  text-align: center;
+  background: linear-gradient(to bottom, #fdf6e3, #fff);
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #2e8b57;
+  color: white;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+p {
+  font-size: 20px;
+  color: #333;
+}
+
+.ornamen {
+  margin-top: 30px;
+}
+
+.ornamen img {
+  width: 120px;
+  margin: 10px;
+}
+
+footer {
+  margin-top: 40px;
+  font-size: 14px;
+  color: #777;
+}
